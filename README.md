@@ -1,2 +1,4 @@
 # localbinarypattern
-local binary pattern java - Informatics Engineering - Uin Suska Riau
+local binary pattern on java, this resource for local binary pattern methodology proccess
+
+email : send.ardiansyah@gmail.com
